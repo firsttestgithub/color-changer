@@ -36,3 +36,9 @@ h2{
 #yellow{
     background-color: yellow;
 }
+span{
+    transition: 1s ease;
+}
+span:hover{
+background-color:purple !important;
+}
